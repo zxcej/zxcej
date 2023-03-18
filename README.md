@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-[![Zxcej's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcej)](https://github.com/anuraghazra/github-readme-stats)
+[![Zxcej's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcej&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🔭 I’m currently working on Transformers and Meta-Learning

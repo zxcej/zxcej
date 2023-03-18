@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 [![Zxcej's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcej)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on Transformer and Meta-Learning
+- 🔭 I’m currently working on Transformers and Meta-Learning
 - 🌱 I’m currently learning optimized models

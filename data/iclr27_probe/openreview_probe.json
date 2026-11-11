@@ -1,0 +1,85 @@
+[
+  {
+    "openreview_client": "initialized"
+  },
+  {
+    "id": "aIdrg5gk9T",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085213)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DaIdrg5gk9T', 'reqId': '2026-11-11-21085213",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "T2fzDguPV2",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085231)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DT2fzDguPV2', 'reqId': '2026-11-11-21085231",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "Z8CJon2kYe",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085254)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DZ8CJon2kYe', 'reqId': '2026-11-11-21085254",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "iqIuIKzPTq",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085278)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DiqIuIKzPTq', 'reqId': '2026-11-11-21085278",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4dx25kXAoU",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085308)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3D4dx25kXAoU', 'reqId': '2026-11-11-21085308",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "wIeY6eluuv",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085329)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DwIeY6eluuv', 'reqId': '2026-11-11-21085329",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ssGKkYTnWl",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085360)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DssGKkYTnWl', 'reqId': '2026-11-11-21085360",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "on0XUoz5mO",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085390)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3Don0XUoz5mO', 'reqId': '2026-11-11-21085390",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "N1PhdtojjK",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085420)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DN1PhdtojjK', 'reqId': '2026-11-11-21085420",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "RjEx6MSVtM",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085444)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DRjEx6MSVtM', 'reqId': '2026-11-11-21085444",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "OTn4LX7KlD",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085470)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DOTn4LX7KlD', 'reqId': '2026-11-11-21085470",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "5VvfvQgkgA",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085482)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3D5VvfvQgkgA', 'reqId': '2026-11-11-21085482",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "XplCWADcBY",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085510)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DXplCWADcBY', 'reqId': '2026-11-11-21085510",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "er9unpQDiP",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085528)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3Der9unpQDiP', 'reqId': '2026-11-11-21085528",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "IfWqfjO4eJ",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085566)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DIfWqfjO4eJ', 'reqId': '2026-11-11-21085566",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "qZmsV7fcsU",
+    "metadata": "error: {'name': 'ChallengeRequiredError', 'message': 'Challenge verification required (2026-11-11-21085593)', 'status': 403, 'details': {'challengeUrl': 'https://openreview.net/challenge?redirect=https%3A%2F%2Fapi2.openreview.net%2Fnotes%3Fid%3DqZmsV7fcsU', 'reqId': '2026-11-11-21085593",
+    "pdf": "error: HTTP Error 403: Forbidden"
+  }
+]

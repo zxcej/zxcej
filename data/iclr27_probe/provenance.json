@@ -1,0 +1,30 @@
+{
+  "created_utc": "2026-11-11T23:35:49Z",
+  "snapshot_id": "2026-11-06T1354Z",
+  "generated_at": "2026-11-06T14:07:52+00:00",
+  "source_url": "https://github.com/shiqiangw/iclr-2027-scores",
+  "raw_row_count": 40616,
+  "score275_review3_count": 1876,
+  "title_theory_candidates": 301,
+  "selected_pairs": 40,
+  "openreview_downloader_version": "0.1.8",
+  "pdf_attempt_ids": [
+    "aIdrg5gk9T",
+    "T2fzDguPV2",
+    "Z8CJon2kYe",
+    "iqIuIKzPTq",
+    "4dx25kXAoU",
+    "wIeY6eluuv",
+    "ssGKkYTnWl",
+    "on0XUoz5mO",
+    "N1PhdtojjK",
+    "RjEx6MSVtM",
+    "OTn4LX7KlD",
+    "5VvfvQgkgA",
+    "XplCWADcBY",
+    "er9unpQDiP",
+    "IfWqfjO4eJ",
+    "qZmsV7fcsU"
+  ],
+  "caution": "Title-only heuristic pre-pair; bibliography overlap NOT yet verified."
+}
